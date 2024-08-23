@@ -12,7 +12,7 @@
 
 - 🖌️ Designer
 
-- 💻 FullStack Web Developer
+- 💻 FullStack Developer
 
 - 🌐 More at: [codebytayne.com](https://www.codebytayne.com)
 
