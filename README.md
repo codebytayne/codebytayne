@@ -1,4 +1,4 @@
-<img align="right" height="490em" style="border-radius: 50% !important;" src="https://images2.imgbox.com/69/59/1jKxRzmm_o.png"/>
+<img align="right" height="390em" style="border-radius: 50% !important;" src="https://images2.imgbox.com/69/59/1jKxRzmm_o.png"/>
 
 <h1 align="left">
   Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Tayne Costa
