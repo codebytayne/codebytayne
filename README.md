@@ -1,12 +1,24 @@
+<p>
 <h1 align="left">
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Slightly%20Smiling%20Face.webp" alt="Slightly Smiling Face" width="25" height="25" /> Oie! Eu sou Tayne Leite
+</p>
 
-  Seja Bem-vindo ao meu GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+<p>
+  Seja Bem-vindo diretório GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+<p/> 
   </h1>
 <img align="right" height="330em" style="border-radius: 50% !important ;" src="https://images2.imgbox.com/76/6c/IaLkO9c2_o.png"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codebytayne&color=05122A" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=codebytayne&color=blue&label=Profile+Views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=codebytayne&color=blue&label=Repository+Clicks&style=flat-square" /> 
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Native-Portuguese-brightgreen" />
+  <img src="https://img.shields.io/badge/Fluency-Italian-red" />
+  <img src="https://img.shields.io/badge/Professional_Proficiency-English-blue" />
+  <img src="https://img.shields.io/badge/Fluency-Spanish-yellow" /> 
 </p>
 
 <p> 
@@ -20,14 +32,14 @@ Sobre mim:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Sparkles" width="25" height="25" /> Aqui estarão listados todos meus projetos, e através deles minha curva de aprendizado
    
-   Pretendo me tornar uma desenvolvedora full Stack. Em Front End pretendo me aprofundar nas áreas de UX/UI. Enquanto em Back End tenho grande interesse em me tornar especialista em Machine Learning, Hack e PHP.
+   Percorrendo a trilha de desenvolvimento full Stack, com foco em Front-end, arquitetura de softwares e gerenciamento de projetos.
 
 <p> 
  <h3>
-O que gosto de fazer no meu tempo livre <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/T-Rex.png" width="30">
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/T-Rex.png" width="30"> O que gosto de fazer no meu tempo livre:
   <h3/>
 <p/>
-<div id="hobbies-container">
+ 
 <div id="hobbies-container">
     <ul>
       <li>
@@ -44,11 +56,10 @@ O que gosto de fazer no meu tempo livre <img src="https://github.com/Tarikul-Isl
       </li>
     </ul>
   </div>
-
    
 <p> 
  <h3>
-Skills:
+<img src= "https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Rocket.png" width="20" style="max-width: 100%" /> Skills:
   <h3/>
 <p/>
 <div class="badges">
@@ -58,11 +69,14 @@ Skills:
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0"/>
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <div/>
 
 <p>
  <h4>
-Contate-me:
+📲 Contate-me:
   <h4/>
 <p/>
 <div class="badges-container"> 
@@ -75,7 +89,7 @@ Contate-me:
 
 <p>
  <h4>
-GitHub Streak Stats:
+<img src= "https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Bar%20Chart.png" width="16" style="max-width: 100%" /> GitHub Streak Stats:
   <h4/>
 <p/>
 <div class="streak-stats-container">
