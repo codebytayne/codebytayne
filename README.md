@@ -47,7 +47,7 @@
 <div id="hobbies-container">
     <ul>
       <li>
-        ✅ Codificando <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/>
+        ✅ Código <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/>
       </li>
       <li>
         ✅ Música <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Musical%20Notes.png" width="30"/>
@@ -56,7 +56,7 @@
         ✅ Jogos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Alien%20Monster.png" width="30"/>
       </li>
       <li>
-        ✅ Anime <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Fish%20Cake%20with%20Swirl.png" width="30"/>
+        ✅ Animes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Fish%20Cake%20with%20Swirl.png" width="30"/>
       </li>
     </ul>
   </div>
