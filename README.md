@@ -11,7 +11,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Seja Bem-vindo ao meu perfil GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 <p/> 
   </h1>
-<img align="right" height="330em" style="border-radius: 50% !important ;" src="https://images2.imgbox.com/79/03/rkyYXOop_o.png"/>
+
+<p>
+  <img align="right" height="330em" style="border-radius: 50% !important ;" src="https://images2.imgbox.com/79/03/rkyYXOop_o.png"/>
+<p/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codebytayne&color=blue&label=Profile+Views&style=flat-square" />
@@ -64,8 +67,10 @@
 <p> 
  <h3>
 <img src= "https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Rocket.png" width="20" style="max-width: 100%" /> Skills:
-  <h3/>
+ <h3/>
 <p/>
+
+<p>
 <div class="badges">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -77,6 +82,7 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <div/>
+<p/> 
 
 <p>
  <h4>
@@ -99,5 +105,3 @@
 <div class="streak-stats-container">
  <img src="https://github-readme-stats.vercel.app/api?username=codebytayne&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
  <img src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats"/>
-
-
