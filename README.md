@@ -32,9 +32,9 @@
 <p/>
 
  
- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" style="max-width: 100%;"> Tenho 27 anos e estou me formando em desenvolvedora Full Stack
+ <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" style="max-width: 100%;"> Tenho 27 anos e estou me formando em desenvolvimento Full Stack.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Sparkles" width="25" height="25" /> Aqui estarão listados todos meus projetos, e através deles minha curva de aprendizado.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Sparkles" width="25" height="25" /> Aqui estarão listados todos meus projetos, e através deles a minha curva de aprendizado.
    
  Percorrendo a trilha de desenvolvimento full Stack, com foco em Front-End, arquitetura de softwares e gerenciamento de projetos.
 
