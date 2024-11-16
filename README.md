@@ -27,7 +27,7 @@
 
 <p> 
  <h3>
-Sobre mim:
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" style="max-width: 100%;">  Sobre mim:
   <h3/>
 <p/>
 
@@ -36,7 +36,7 @@ Sobre mim:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Sparkles" width="25" height="25" /> Aqui estarão listados todos meus projetos, e através deles minha curva de aprendizado.
    
- Percorrendo a trilha de desenvolvimento full Stack, com foco em Front-end, arquitetura de softwares e gerenciamento de projetos.
+ Percorrendo a trilha de desenvolvimento full Stack, com foco em Front-End, arquitetura de softwares e gerenciamento de projetos.
 
 <p> 
  <h3>
