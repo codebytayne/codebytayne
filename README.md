@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  Seja Bem-vindo diretório GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+  Seja Bem-vindo ao meu perfil GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 <p/> 
   </h1>
 <img align="right" height="330em" style="border-radius: 50% !important ;" src="https://images2.imgbox.com/76/6c/IaLkO9c2_o.png"/>
