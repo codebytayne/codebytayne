@@ -16,9 +16,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Native-Portuguese-brightgreen" />
-  <img src="https://img.shields.io/badge/Fluency-Italian-red" />
-  <img src="https://img.shields.io/badge/Professional_Proficiency-English-blue" />
-  <img src="https://img.shields.io/badge/Fluency-Spanish-yellow" /> 
+  <img src="https://img.shields.io/badge/Fluent-Italian-red" />
+  <img src="https://img.shields.io/badge/Professional Proficiency-English-blue" />
+  <img src="https://img.shields.io/badge/Fluent-Spanish-yellow" /> 
 </p>
 
 <p> 
