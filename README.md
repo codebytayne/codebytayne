@@ -102,6 +102,14 @@
 <img src= "https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Bar%20Chart.png" width="16" style="max-width: 100%" /> GitHub Streak Stats:
   <h4/>
 <p/>
+
 <div class="streak-stats-container">
- <img src="https://github-readme-stats.vercel.app/api?username=codebytayne&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
- <img src="https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats"/>
+
+ 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebytayne&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p/>
+ 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytayne&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<p/>
