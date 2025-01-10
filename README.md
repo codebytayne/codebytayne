@@ -103,9 +103,9 @@
 
  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=codebytayne&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebytayne&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
 <p/>
  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytayne&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebytayne&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Most Used Languages" />
 <p/>
